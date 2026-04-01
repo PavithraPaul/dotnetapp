@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GWYKv1f8i9A=",
+  "dgSpecHash": "I7nA1/fI7/0=",
   "success": true,
   "projectFilePath": "/workspaces/dotnetapp/dotnetapp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/newrelic.agent/10.50.0/newrelic.agent.10.50.0.nupkg.sha512"
+  ],
   "logs": []
 }
